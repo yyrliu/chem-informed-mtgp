@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="180" viewBox="0 0 120 180">
+  <defs>
+    <!-- main body: radial gradient, highlight offset up-left -->
+    <radialGradient id="dropBody" cx="0.38" cy="0.30" r="0.75">
+      <stop offset="0%"  stop-color="#fff6d5"/>
+      <stop offset="25%" stop-color="#ffd54a"/>
+      <stop offset="70%" stop-color="#f5a623"/>
+      <stop offset="100%" stop-color="#d97e0a"/>
+    </radialGradient>
+    <!-- soft specular highlight -->
+    <radialGradient id="dropSpec" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%"  stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- teardrop: rounded bottom, pointed top -->
+  <path d="M60 12
+           C 66 40, 96 70, 96 108
+           A 36 36 0 1 1 24 108
+           C 24 70, 54 40, 60 12 Z"
+        fill="url(#dropBody)"/>
+
+  <!-- big soft highlight upper-left -->
+  <ellipse cx="46" cy="86" rx="16" ry="22" fill="url(#dropSpec)"/>
+  <!-- tiny sharp glint -->
+  <ellipse cx="42" cy="70" rx="4" ry="6" fill="#ffffff" opacity="0.85"/>
+</svg>

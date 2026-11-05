@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Cache files
+.cache
+notebooks/.cache
+
+# db files
+*.duckdb
+
+# parquet files
+data_parquet
+
+# Environment files
+.env
+
+temp/

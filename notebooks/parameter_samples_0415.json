@@ -1,0 +1,290 @@
+[
+  {
+    "annealing_temp": 70,
+    "annealing_time": 300,
+    "dispense_volume": 100,
+    "spin_speed": 4000,
+    "dispense_speed": 220,
+    "concentration": 0.25,
+    "a_site": "MBAI"
+  },
+  {
+    "annealing_temp": 70,
+    "annealing_time": 60,
+    "dispense_volume": 75,
+    "spin_speed": 6000,
+    "dispense_speed": 140,
+    "concentration": 0.5,
+    "a_site": "MBAI"
+  },
+  {
+    "annealing_temp": 110,
+    "annealing_time": 540,
+    "dispense_volume": 150,
+    "spin_speed": 5000,
+    "dispense_speed": 180,
+    "concentration": 1.0,
+    "a_site": "MBAI"
+  },
+  {
+    "annealing_temp": 135,
+    "annealing_time": 900,
+    "dispense_volume": 125,
+    "spin_speed": 2000,
+    "dispense_speed": 220,
+    "concentration": 0.25,
+    "a_site": "MBAI"
+  },
+  {
+    "annealing_temp": 135,
+    "annealing_time": 720,
+    "dispense_volume": 150,
+    "spin_speed": 4000,
+    "dispense_speed": 100,
+    "concentration": 1.0,
+    "a_site": "MBAI"
+  },
+  {
+    "annealing_temp": 135,
+    "annealing_time": 540,
+    "dispense_volume": 100,
+    "spin_speed": 1000,
+    "dispense_speed": 180,
+    "concentration": 1.5,
+    "a_site": "MBAI"
+  },
+  {
+    "annealing_temp": 90,
+    "annealing_time": 900,
+    "dispense_volume": 75,
+    "spin_speed": 1000,
+    "dispense_speed": 160,
+    "concentration": 0.5,
+    "a_site": "MBAI"
+  },
+  {
+    "annealing_temp": 70,
+    "annealing_time": 180,
+    "dispense_volume": 125,
+    "spin_speed": 1000,
+    "dispense_speed": 120,
+    "concentration": 1.5,
+    "a_site": "MBAI"
+  },
+  {
+    "annealing_temp": 70,
+    "annealing_time": 420,
+    "dispense_volume": 125,
+    "spin_speed": 4000,
+    "dispense_speed": 200,
+    "concentration": 1.0,
+    "a_site": "MBAI"
+  },
+  {
+    "annealing_temp": 110,
+    "annealing_time": 420,
+    "dispense_volume": 75,
+    "spin_speed": 6000,
+    "dispense_speed": 240,
+    "concentration": 0.5,
+    "a_site": "MBAI"
+  },
+  {
+    "annealing_temp": 70,
+    "annealing_time": 180,
+    "dispense_volume": 50,
+    "spin_speed": 4000,
+    "dispense_speed": 100,
+    "concentration": 1.0,
+    "a_site": "MBAI"
+  },
+  {
+    "annealing_temp": 150,
+    "annealing_time": 420,
+    "dispense_volume": 150,
+    "spin_speed": 3000,
+    "dispense_speed": 120,
+    "concentration": 1.0,
+    "a_site": "MBAI"
+  },
+  {
+    "annealing_temp": 150,
+    "annealing_time": 420,
+    "dispense_volume": 75,
+    "spin_speed": 2000,
+    "dispense_speed": 160,
+    "concentration": 0.25,
+    "a_site": "MBAI"
+  },
+  {
+    "annealing_temp": 55,
+    "annealing_time": 60,
+    "dispense_volume": 125,
+    "spin_speed": 5000,
+    "dispense_speed": 180,
+    "concentration": 0.5,
+    "a_site": "MBAI"
+  },
+  {
+    "annealing_temp": 150,
+    "annealing_time": 300,
+    "dispense_volume": 125,
+    "spin_speed": 6000,
+    "dispense_speed": 200,
+    "concentration": 1.0,
+    "a_site": "MBAI"
+  },
+  {
+    "annealing_temp": 150,
+    "annealing_time": 420,
+    "dispense_volume": 125,
+    "spin_speed": 5000,
+    "dispense_speed": 180,
+    "concentration": 0.25,
+    "a_site": "MBAI"
+  },
+  {
+    "annealing_temp": 135,
+    "annealing_time": 420,
+    "dispense_volume": 150,
+    "spin_speed": 1000,
+    "dispense_speed": 100,
+    "concentration": 1.0,
+    "a_site": "ClMBAI"
+  },
+  {
+    "annealing_temp": 70,
+    "annealing_time": 300,
+    "dispense_volume": 150,
+    "spin_speed": 2000,
+    "dispense_speed": 200,
+    "concentration": 0.5,
+    "a_site": "ClMBAI"
+  },
+  {
+    "annealing_temp": 135,
+    "annealing_time": 900,
+    "dispense_volume": 50,
+    "spin_speed": 6000,
+    "dispense_speed": 80,
+    "concentration": 1.5,
+    "a_site": "ClMBAI"
+  },
+  {
+    "annealing_temp": 150,
+    "annealing_time": 540,
+    "dispense_volume": 150,
+    "spin_speed": 2000,
+    "dispense_speed": 180,
+    "concentration": 0.5,
+    "a_site": "ClMBAI"
+  },
+  {
+    "annealing_temp": 90,
+    "annealing_time": 420,
+    "dispense_volume": 75,
+    "spin_speed": 1000,
+    "dispense_speed": 200,
+    "concentration": 0.25,
+    "a_site": "ClMBAI"
+  },
+  {
+    "annealing_temp": 90,
+    "annealing_time": 420,
+    "dispense_volume": 100,
+    "spin_speed": 6000,
+    "dispense_speed": 100,
+    "concentration": 1.5,
+    "a_site": "ClMBAI"
+  },
+  {
+    "annealing_temp": 90,
+    "annealing_time": 60,
+    "dispense_volume": 75,
+    "spin_speed": 6000,
+    "dispense_speed": 180,
+    "concentration": 0.5,
+    "a_site": "ClMBAI"
+  },
+  {
+    "annealing_temp": 110,
+    "annealing_time": 420,
+    "dispense_volume": 150,
+    "spin_speed": 5000,
+    "dispense_speed": 100,
+    "concentration": 1.0,
+    "a_site": "ClMBAI"
+  },
+  {
+    "annealing_temp": 110,
+    "annealing_time": 300,
+    "dispense_volume": 150,
+    "spin_speed": 2000,
+    "dispense_speed": 200,
+    "concentration": 0.5,
+    "a_site": "ClMBAI"
+  },
+  {
+    "annealing_temp": 55,
+    "annealing_time": 420,
+    "dispense_volume": 150,
+    "spin_speed": 5000,
+    "dispense_speed": 160,
+    "concentration": 1.5,
+    "a_site": "ClMBAI"
+  },
+  {
+    "annealing_temp": 55,
+    "annealing_time": 540,
+    "dispense_volume": 125,
+    "spin_speed": 1000,
+    "dispense_speed": 240,
+    "concentration": 1.0,
+    "a_site": "ClMBAI"
+  },
+  {
+    "annealing_temp": 55,
+    "annealing_time": 180,
+    "dispense_volume": 150,
+    "spin_speed": 5000,
+    "dispense_speed": 100,
+    "concentration": 1.0,
+    "a_site": "ClMBAI"
+  },
+  {
+    "annealing_temp": 150,
+    "annealing_time": 60,
+    "dispense_volume": 150,
+    "spin_speed": 4000,
+    "dispense_speed": 140,
+    "concentration": 0.5,
+    "a_site": "ClMBAI"
+  },
+  {
+    "annealing_temp": 150,
+    "annealing_time": 60,
+    "dispense_volume": 50,
+    "spin_speed": 2000,
+    "dispense_speed": 180,
+    "concentration": 0.5,
+    "a_site": "ClMBAI"
+  },
+  {
+    "annealing_temp": 90,
+    "annealing_time": 300,
+    "dispense_volume": 150,
+    "spin_speed": 5000,
+    "dispense_speed": 200,
+    "concentration": 1.0,
+    "a_site": "ClMBAI"
+  },
+  {
+    "annealing_temp": 90,
+    "annealing_time": 300,
+    "dispense_volume": 125,
+    "spin_speed": 1000,
+    "dispense_speed": 120,
+    "concentration": 0.25,
+    "a_site": "ClMBAI"
+  }
+]

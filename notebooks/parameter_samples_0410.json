@@ -1,0 +1,66 @@
+[
+  {
+    "annealing_temp": 70,
+    "annealing_time": 1500,
+    "dispense_volume": 125,
+    "spin_speed": 1000,
+    "dispense_speed": 180,
+    "concentration": 0.1
+  },
+  {
+    "annealing_temp": 90,
+    "annealing_time": 1500,
+    "dispense_volume": 300,
+    "spin_speed": 2000,
+    "dispense_speed": 140,
+    "concentration": 0.5
+  },
+  {
+    "annealing_temp": 90,
+    "annealing_time": 1200,
+    "dispense_volume": 200,
+    "spin_speed": 4000,
+    "dispense_speed": 120,
+    "concentration": 0.1
+  },
+  {
+    "annealing_temp": 90,
+    "annealing_time": 900,
+    "dispense_volume": 75,
+    "spin_speed": 2000,
+    "dispense_speed": 100,
+    "concentration": 2.0
+  },
+  {
+    "annealing_temp": 70,
+    "annealing_time": 720,
+    "dispense_volume": 25,
+    "spin_speed": 3000,
+    "dispense_speed": 140,
+    "concentration": 1.5
+  },
+  {
+    "annealing_temp": 70,
+    "annealing_time": 540,
+    "dispense_volume": 25,
+    "spin_speed": 6000,
+    "dispense_speed": 100,
+    "concentration": 1.5
+  },
+  {
+    "annealing_temp": 90,
+    "annealing_time": 420,
+    "dispense_volume": 300,
+    "spin_speed": 4000,
+    "dispense_speed": 240,
+    "concentration": 1.0
+  },
+  {
+    "annealing_temp": 120,
+    "annealing_time": 120,
+    "dispense_volume": 75,
+    "spin_speed": 5000,
+    "dispense_speed": 220,
+    "concentration": 0.5
+  }
+]

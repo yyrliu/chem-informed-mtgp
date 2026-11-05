@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="80" viewBox="0 0 220 80">
+  <defs>
+    <!-- arrowhead marker -->
+    <marker id="arrowHead" markerWidth="6" markerHeight="6"
+            refX="3" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L6 3 L0 6 L1.5 3 Z" fill="#6b7075"/>
+    </marker>
+  </defs>
+
+  <!-- LEFT arrow: arc sweeping down-left, head at the bottom end -->
+  <path d="M70 20 A 55 55 0 0 0 30 55"
+        fill="none" stroke="#6b7075" stroke-width="4"
+        stroke-linecap="round" marker-end="url(#arrowHead)"/>
+
+  <!-- RIGHT arrow: mirror image -->
+  <path d="M150 20 A 55 55 0 0 1 190 55"
+        fill="none" stroke="#6b7075" stroke-width="4"
+        stroke-linecap="round" marker-end="url(#arrowHead)"/>
+</svg>

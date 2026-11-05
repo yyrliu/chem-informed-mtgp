@@ -1,0 +1,50 @@
+`*` after A-site: choosen for BO_results_outlier_removed\20260803_shap_minmax.csv
+
+Extreme SHAP values for A-Site 'MBAI':
+     concentration  annealing_temp  SHAP_Combined_Env A-Site
+183           0.50            80.0           6.448525   MBAI*
+150           0.50            80.0           6.019335   MBAI
+13            0.50            70.0           5.978784   MBAI
+273           0.50            70.0           5.637920   MBAI
+99            0.50            80.0           5.516875   MBAI
+53            0.50            85.0           5.100977   MBAI
+111           0.25           130.0           4.437959   MBAI*
+188           0.50            90.0           4.296763   MBAI
+25            0.25           110.0           3.987265   MBAI
+36            0.25           110.0           3.792949   MBAI
+180           1.00           135.0          -8.535904   MBAI*
+131           0.75           140.0          -7.842718   MBAI
+267           1.25           120.0          -7.720951   MBAI
+
+Extreme SHAP values for A-Site 'MeOMBAI':
+     concentration  annealing_temp  SHAP_Combined_Env   A-Site
+69            0.25           125.0           0.959434  MeOMBAI*
+161           0.50            80.0           0.805961  MeOMBAI*
+98            0.25           130.0           0.619726  MeOMBAI
+208           1.25            60.0           0.617491  MeOMBAI
+170           0.25           135.0           0.615120  MeOMBAI
+74            0.25           130.0           0.537162  MeOMBAI
+199           0.25           115.0           0.485979  MeOMBAI
+84            0.25           130.0           0.476323  MeOMBAI
+162           1.00            60.0           0.474240  MeOMBAI
+203           0.75            65.0           0.449511  MeOMBAI
+175           1.00           130.0          -6.354293  MeOMBAI*
+75            1.00           135.0          -5.907727  MeOMBAI
+110           1.00           130.0          -5.892607  MeOMBAI
+
+Extreme SHAP values for A-Site 'ClMBAI':
+     concentration  annealing_temp  SHAP_Combined_Env  A-Site
+215           0.25           135.0          13.450202  ClMBAI*
+30            0.25           140.0          13.237003  ClMBAI
+189           0.25           125.0          13.155732  ClMBAI
+68            0.25           135.0          13.092260  ClMBAI
+195           0.25           140.0          13.085146  ClMBAI
+119           0.25           135.0          12.922764  ClMBAI
+187           0.25           135.0          12.544948  ClMBAI
+126           0.25           135.0          12.538724  ClMBAI
+245           0.25           135.0          12.493645  ClMBAI
+164           0.25           145.0          12.471607  ClMBAI
+117           1.00           130.0          -9.276937  ClMBAI*
+182           1.00           135.0          -8.731011  ClMBAI
+85            1.00           140.0          -8.713682  ClMBAI
+
